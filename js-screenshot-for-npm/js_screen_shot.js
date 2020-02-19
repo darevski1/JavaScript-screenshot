@@ -3,6 +3,7 @@ const html2canvas = require('html2canvas');
  * covert canvas to image
  * and save the image file
  */
+// 
 
 var Canvas2Image = function() {
 
